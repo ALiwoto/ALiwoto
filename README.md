@@ -32,7 +32,7 @@
 	<h5>&nbsp<h4>
 	<!--=======================-->
 	<h2 align="middle" >
-		<img src="https://github-readme-stats.vercel.app/api?username=aliwoto&show_icons=true&&theme=tokyonight" />
+		<img src="https://github-readme-stats.vercel.app/api?username=aliwoto&show_icons=true&&theme=tokyonight&langs_count=25" />
 	</h2>
 	<h2 align="middle" >
 		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aliwoto&custom_title=Most%20used%20languages&theme=tokyonight&hide_border=true" width="355px" height="355px" />
